@@ -1,0 +1,56 @@
+{
+  "1611.00467v1": {
+    "title": "A Performance Survey on Stack-based and Register-based Virtual Machines",
+    "authors": [
+      "Ruijie Fang",
+      "Siqi Liu"
+    ],
+    "summary": "Virtual machines have been widely adapted for high-level programming language\nimplementations and for providing a degree of platform neutrality. As the\noverall use and adaptation of virtual machines grow, the overall performance of\nvirtual machines has become a widely-discussed topic. In this paper, we present\na survey on the performance differences of the two most widely adapted types of\nvirtual machines - the stack-based virtual machine and the register-based\nvirtual machine - using various benchmark programs. Additionally, we adopted a\nnew approach of measuring performance by measuring the overall dispatch time,\namount of dispatches, fetch time, and execution time while running benchmarks\non custom-implemented, lightweight virtual machines. Finally, we present two\nlightweight, custom-designed, Turing-equivalent virtual machines that are\nspecifically designed in benchmarking virtual machine performance - the\n\"Conceptum\" stack-based virtual machine, and the \"Inertia\" register-based\nvirtual machine. Our result showed that while on average the register machine\nspends 20.39% less time in executing benchmarks than the stack machine, the\nstack-based virtual machine is still faster than the virtual machine regarding\nthe instruction fetch time.",
+    "pdf_url": "http://arxiv.org/pdf/1611.00467v1",
+    "published": "2016-11-02"
+  },
+  "2110.15491v1": {
+    "title": "Newtonian Mechanics Based Transient Stability PART VI: Machine Transformation",
+    "authors": [
+      "Songyan Wang",
+      "Jilai Yu",
+      "Aoife Foley",
+      "Jingrui Zhang"
+    ],
+    "summary": "This paper focuses on the transformations from the individual machine to the\nequivalent machine through the \"correction\" perspective of the inner-group\nmachine. The machines are first classified as the real machine with equation of\nmotion and the pseudo machine without equation of motion. Then, it is clarified\nthat both individual machine and equivalent machine are real machines, while\nthe superimposed machine is a pseudo machine. Based on the classifications of\nthe machines, two types of machine transformations are provided. The two types\nof machine transformations are based on the \"energy correction\" and \"trajectory\ncorrection\" of the inner-group machine, respectively. For the energy correction\ncase, it is clarified that the trajectory transformation completely fails,\nwhile the energy transformation mathematically holds yet it is physically\nmeaningless. For the trajectory correction case, it is clarified that both\nenergy transformation and trajectory transformation are established. The reason\nis that each trajectory-correction based individual machine has the same\nequation of motion, i.e., the motion of the equivalent Machine-CR. Simulation\nresults show that the machine transformation from the individual machine to the\nequivalent machine can be realized only through trajectory correction.",
+    "pdf_url": "http://arxiv.org/pdf/2110.15491v1",
+    "published": "2021-10-29"
+  },
+  "1909.03550v1": {
+    "title": "Lecture Notes: Optimization for Machine Learning",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "summary": "Lecture notes on optimization for machine learning, derived from a course at\nPrinceton University and tutorials given in MLSS, Buenos Aires, as well as\nSimons Foundation, Berkeley.",
+    "pdf_url": "http://arxiv.org/pdf/1909.03550v1",
+    "published": "2019-09-08"
+  },
+  "2110.10413v1": {
+    "title": "Newtonian Mechanics Based Transient Stability PART I: Machine Paradigms",
+    "authors": [
+      "Songyan Wang",
+      "Jilai Yu",
+      "Aoife Foley",
+      "Jingrui Zhang"
+    ],
+    "summary": "Individual-machine, superimposed-machine and equivalent-machine can be seen\nas the three major perspectives of the power system transient stability. In\nthis paper, the machine paradigms are established according to the common\nthinking among the three different machines. The machine paradigms comprise of\nthe three components, i.e., trajectory paradigm, modeling paradigm and energy\nparadigm. The trajectory paradigm is the reflection of the trajectory\nstability; the modeling paradigm is the two-machine-system modeling of the\ntrajectory stability; and the energy paradigm is the stability evaluation of\nthe two-machine system. Based on this, it is clarified that the machine\nparadigms can be expressed into the individual machine form or the equivalent\nmachine form. Then, the relationship between the machine stability and the\nsystem stability are analyzed. Simulation results show that the effectiveness\nof both the individual-machine and the equivalent machine is fully based on the\nstrict followings of the machine paradigms.",
+    "pdf_url": "http://arxiv.org/pdf/2110.10413v1",
+    "published": "2021-10-20"
+  },
+  "0910.1761v1": {
+    "title": "Decomposition of forging dies for machining planning",
+    "authors": [
+      "Laurent Tapie",
+      "Kwamiwi Mawussi",
+      "Bernard Anselmetti"
+    ],
+    "summary": "This paper will provide a method to decompose forging dies for machining\nplanning in the case of high speed machining finishing operations. This method\nlies on a machining feature approach model presented in the following paper.\nThe two main decomposition phases, called Basic Machining Features Extraction\nand Process Planning Generation, are presented. These two decomposition phases\nintegrates machining resources models and expert machining knowledge to provide\nan outstanding process planning.",
+    "pdf_url": "http://arxiv.org/pdf/0910.1761v1",
+    "published": "2009-10-09"
+  }
+}
